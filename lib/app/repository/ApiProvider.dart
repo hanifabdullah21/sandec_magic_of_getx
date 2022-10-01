@@ -5,7 +5,7 @@ import 'package:sandec_magic_of_getx/app/model/ResponseModel.dart';
 class ApiProvider extends GetConnect {
   @override
   void onInit() {
-    httpClient.baseUrl = "http://192.168.1.26:5000";
+    httpClient.baseUrl = "http://192.168.100.10:5000";
 
     httpClient.addResponseModifier((request, response) {
       debugPrint(

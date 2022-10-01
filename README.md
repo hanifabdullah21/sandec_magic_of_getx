@@ -4,8 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-1. Import database to your localhost [FILE]()
-2. Extract Laravel Project [FILE]()
+1. Import database to your localhost [FILE](https://github.com/hanifabdullah21/sandec_magic_of_getx/blob/main/db_sandec_magic_of_getx.sql)
+2. Extract Laravel Project [FILE](https://github.com/hanifabdullah21/sandec_magic_of_getx/blob/main/sandec_magic_of_getx_api.zip)
 3. Run API
 ```
 php -S YOUR_API:5000 -t public
